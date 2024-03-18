@@ -1,0 +1,32 @@
+{
+  "name": "denisgorlov-math",
+  "version": "1.0.0",
+  "description": "This Node.js module provides several interesting functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denisgorlov134/denisgorlov-math"
+  },
+  "dependencies": {
+	 "tai32max32": "1.0.0",
+"pologovsemen-part": "1.0.0",
+"grommailpasha": "1.0.0",
+"sharonhall": "1.0.0",
+"rodrygarci-new": "1.0.0",
+"tobogunbar": "1.0.0",
+"ruththompson-tools": "1.0.0",
+"limonovp": "1.0.0", 
+    "axios": "^0.24.0",
+    "randomstring": "^1.2.1",
+    "fast-csv": "^5.5.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denisgorlov134/denisgorlov-math/issues"
+  },
+  "homepage": "https://github.com/denisgorlov134/denisgorlov-math#readme"
+}
